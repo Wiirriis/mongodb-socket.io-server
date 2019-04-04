@@ -1,6 +1,6 @@
 # MongoChat
 
-Simple chat app that uses MongoDB and Socket.io
+Servidor socket.io con mongodb.
 
 ### Version
 1.0.0
