@@ -1,4 +1,4 @@
-# MongoChat
+# MongoSocket
 
 Servidor socket.io con mongodb.
 
@@ -17,5 +17,4 @@ npm start
 
 ## Run App
 Open index.html
-"# mongodb-socket.io-server" 
-"# mongodb-socket.io-server" 
+
